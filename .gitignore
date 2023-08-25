@@ -26,3 +26,4 @@ test/syntaxcache/
 .vagrant
 .bundle
 .bundler
+.rubocop-https*
